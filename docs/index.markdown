@@ -21,6 +21,9 @@ Beyond technical proficiency, he is dedicated to fostering a collaborative and i
 Learn more about Amit at:
 
 
-[About Me](https://profile.fyi/singham) | 
+[About Me](https://profile.fyi/singham) 
+
 [LinkedIn](https://www.linkedin.com/in/cloudquestor/)
+
+[Check out my resume](/assets/files/profile.pdf) 
 
