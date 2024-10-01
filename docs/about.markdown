@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Amit is a seasoned solution architect with a passion for leveraging technology to drive innovation. His expertise lies in designing and implementing scalable, cloud-native solutions using Docker, Kubernetes, and Ansible. 
+| ![Profile](/assets/images/profile.jpeg) | Amit is a seasoned solution architect with a passion for leveraging technology to drive innovation. His expertise lies in designing and implementing scalable, cloud-native solutions using Docker, Kubernetes, and Ansible. |
 
 With a proven track record of delivering successful projects, Amit excel at problem-solving, collaboration, and staying ahead of industry trends.
 Throughout his career, he has successfully modernized legacy systems, optimized cloud infrastructure, and implemented CI/CD pipelines using GitHub Actions. 
