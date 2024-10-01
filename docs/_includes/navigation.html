@@ -1,0 +1,10 @@
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="navbar-brand"{% endif %}>{{ item.name }}</a>
+    {% endfor %}
+       
+      </div>
+    </div>
+  </nav>
