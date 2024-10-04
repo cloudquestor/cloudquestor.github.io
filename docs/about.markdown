@@ -11,7 +11,7 @@ Throughout his career, he has successfully modernized legacy systems, optimized 
 
 Amit's ability to navigate complex technical challenges and deliver results has earned him a reputation for excellence.
 
-Beyond technical proficiency, he is dedicated to fostering a collaborative and inclusive work environment. Amit believe in the power of continuous learning and he is always seeking opportunities to expand my knowledge and skills.
+Beyond technical proficiency, he is dedicated to fostering a collaborative and inclusive work environment. Amit believe in the power of continuous learning and he is always seeking opportunities to expand his knowledge and skills.
 
 Learn more about Amit at:
 
